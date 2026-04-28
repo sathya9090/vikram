@@ -1,4 +1,4 @@
-a=how are 
+a=10
 b=you
 c=(a+b)
 print(c)
